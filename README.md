@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a detailed Medium article titled "Intermediate Android Compose - Playback Bar." You can read the article [here]().
+This project is accompanied by a detailed Medium article titled "Intermediate Android Compose - Playback Bar." You can read the article [here](https://medium.com/@kenruizinoue/intermediate-android-composable-playback-bar-e03110cb3c95).
 
 ## Overview
 
